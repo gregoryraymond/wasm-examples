@@ -1,0 +1,9 @@
+{
+  "emmet.includeLanguages": {
+    "rust": "html"
+  },
+  "rust-analyzer.linkedProjects": [
+    "${workspaceFolder}/tauri-app/src/Cargo.toml",
+    "${workspaceFolder}/router/Cargo.toml",
+  ]
+}
